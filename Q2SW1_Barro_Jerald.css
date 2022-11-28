@@ -1,0 +1,20 @@
+/*this is an external CSS*/
+
+h1{
+	text-transform: uppervase;
+	text-shadow:  2px 2px #6D350E;
+}
+table{
+	box-shadow: 2px 2px #6D350E;
+}
+.Div1{
+	box-shadow:  2px 2px #C7B008;
+}
+.Div2{
+	box-shadow: 2px 2px #61B6A4;
+}
+.Div3{
+	box-shadow:  2px 2px #5E440F;
+}
+
+
